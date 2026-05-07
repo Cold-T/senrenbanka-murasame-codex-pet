@@ -1,6 +1,6 @@
 # Murasame Codex Pet
 
-[中文](README.zh-CN.md)
+[中文](README.zh-CN.md) | [日本語](README.ja.md)
 
 An unofficial fan-made Codex pet inspired by Murasame / 丛雨 from Senren Banka / 千恋＊万花.
 

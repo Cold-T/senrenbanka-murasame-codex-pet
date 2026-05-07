@@ -1,5 +1,7 @@
 # 丛雨 Codex 宠物
 
+[English](README.md) | [日本語](README.ja.md)
+
 一个基于《千恋＊万花》丛雨的非官方同人 Codex 宠物。
 
 ## 预览
