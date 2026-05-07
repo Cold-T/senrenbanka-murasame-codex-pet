@@ -1,8 +1,8 @@
 # Murasame Codex Pet
 
-[中文](README.zh-CN.md) | [日本語](README.ja.md)
+[Chinese](README.zh-CN.md) | [Japanese](README.ja.md)
 
-An unofficial fan-made Codex pet inspired by Murasame / 丛雨.
+An unofficial fan-made Codex pet inspired by Murasame from Senren Banka.
 
 ## Preview
 
@@ -35,7 +35,7 @@ The final structure should be:
   spritesheet.webp
 ```
 
-Restart or refresh Codex, then select `丛雨` from the pet picker.
+Restart or refresh Codex, then select the Murasame pet from the pet picker.
 
 ## Files
 
@@ -44,7 +44,7 @@ Restart or refresh Codex, then select `丛雨` from the pet picker.
 
 ## Disclaimer
 
-This is an unofficial fan-made Codex pet. Murasame / 丛雨, Senren Banka / 千恋＊万花, and related original works belong to their respective rights holders.
+This is an unofficial fan-made Codex pet. Murasame, Senren Banka, and related original works belong to their respective rights holders.
 
 This repository is not affiliated with or endorsed by the original creators or rights holders.
 
