@@ -1,10 +1,12 @@
 # Murasame Codex Pet
 
-[Chinese](README.zh-CN.md) | [Japanese](README.ja.md)
+[中文](README.zh-CN.md) | [日本語](README.ja.md)
 
 An unofficial fan-made Codex pet inspired by Murasame from Senren Banka.
 
 ## Preview
+
+![Murasame Codex pet preview](preview.png)
 
 This pet includes a Codex-compatible animated spritesheet with the following states:
 

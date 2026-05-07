@@ -6,6 +6,8 @@
 
 ## 预览
 
+![丛雨 Codex 宠物预览](preview.png)
+
 这个宠物包含 Codex 兼容的动画精灵图，覆盖以下状态：
 
 - idle
